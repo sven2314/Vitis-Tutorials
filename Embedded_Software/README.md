@@ -68,7 +68,7 @@ Following are the resources for embedded flow with Vitis unified IDE.
   </tr>
 
   <tr>
-    <td><a href=https://www.xilinx.com/video/software/vitis-ide-embedded-design.html> Demo video for getting started</a></td>
+    <td><a href=https://www.xilinx.com/video/software/vitis-ide-embedded-design.html> Demo Video for Getting Started</a></td>
     <td>Getting started with Vitis unified IDE for embedded flow.</td>
   </tr>
 
@@ -78,7 +78,7 @@ Following are the resources for embedded flow with Vitis unified IDE.
   </tr>
 
   <tr>
-    <td>Migration training class, LINK is TBD</a></td>
+    <td>Migration Training Class, LINK is TBD</a></td>
     <td>Introduce how to migrate project and drivers, as well as solving issue when doing migration.</td>
    </tr>
 
