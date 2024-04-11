@@ -57,7 +57,36 @@ The [Feature Tutorials](./Feature_Tutorials) illustrate specific features of Vit
    </tr>
 </table>
 
+## Other Resources
 
+Folowing is the resource for embedded flow with Vitis unified IDE.
+
+<table style="width:100%">
+  <tr>
+    <th width="30%" align="center"><b>Resource</b></td>
+    <th width="70%" align="center"><b>Description</b></td>
+  </tr>
+
+  <tr>
+    <td><a [UG1400](https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Getting-Started-with-Vitis)></a></td>
+    <td>User Manual for embedded development flow with Vitis Unified IDE.</td>
+  </tr>
+
+  <tr>
+    <td><a href=./Feature_Tutorials/04-vitis_scripting_flows>Vitis Embedded Scripting Flows</a></td>
+    <td>Demonstrate how to automate GUI steps with scripts for both project management and debugging.</td>
+  </tr>
+
+  <tr>
+    <td><a href=./Feature_Tutorials/01-user_managed_mode>User Managed Mode in Vitis Unified IDE</a></td>
+    <td>Introduces how command line users can make use of Vitis Unified IDE to debug their applications in GUI and how to quickly call makefile actions.</td>
+  </tr>
+
+  <tr>
+    <td><a href="./Feature_Tutorials/02-Debugging"> Vitis Embedded Software Debugging Guide</a></td>
+    <td>This tutorial demonstrates different debugging features available within the Vitis Embedded software development flow for bare-metal and Linux applications. It also introduces the flow to create a debuggable FSBL and how to do cross triggering in Vitis Unified IDE.</td>
+   </tr>
+</table>
 
 <p class="sphinxhide" align="center"><sub>Copyright © 2020–2023 Advanced Micro Devices, Inc</sub></p>
 
