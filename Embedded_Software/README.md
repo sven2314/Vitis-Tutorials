@@ -57,9 +57,9 @@ The [Feature Tutorials](./Feature_Tutorials) illustrate specific features of Vit
    </tr>
 </table>
 
-## Other Resources
+## Resources associated with tutorial
 
-Folowing is the resource for embedded flow with Vitis unified IDE.
+Following are the resources for embedded flow with Vitis unified IDE.
 
 <table style="width:100%">
   <tr>
@@ -68,24 +68,29 @@ Folowing is the resource for embedded flow with Vitis unified IDE.
   </tr>
 
   <tr>
+    <td><a href=https://www.xilinx.com/video/software/vitis-ide-embedded-design.html> Demo video for getting started</a></td>
+    <td>Getting started with Vitis unified IDE for embedded flow.</td>
+  </tr>
+
+  <tr>
+    <td><a href=https://support.xilinx.com/s/article/000035677?language=en_US>Migration Guide</a></td>
+    <td>Introduces how to migrate projects from Classic IDE to Vitis Unified IDE</td>
+  </tr>
+
+  <tr>
+    <td><a TBD >Migration training class</a></td>
+    <td>Introduce how to migrate project and drivers, as well as solving issue when doing migration.</td>
+   </tr>
+
+  <tr>
     <td><a href="https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Getting-Started-with-Vitis"> UG1400 </a></td>
     <td>User Manual for embedded development flow with Vitis Unified IDE.</td>
   </tr>
-
   <tr>
-    <td><a href=./Feature_Tutorials/04-vitis_scripting_flows>Vitis Embedded Scripting Flows</a></td>
-    <td>Demonstrate how to automate GUI steps with scripts for both project management and debugging.</td>
+    <td><a href=https://docs.xilinx.com/r/en-US/ug1647-porting-embeddedsw-components>UG1647</a></td>
+    <td>Customer software repository Porting Guide for embeddedsw Components System Device Tree Based Build Flow
+    </td>
   </tr>
-
-  <tr>
-    <td><a href=./Feature_Tutorials/01-user_managed_mode>User Managed Mode in Vitis Unified IDE</a></td>
-    <td>Introduces how command line users can make use of Vitis Unified IDE to debug their applications in GUI and how to quickly call makefile actions.</td>
-  </tr>
-
-  <tr>
-    <td><a href="./Feature_Tutorials/02-Debugging"> Vitis Embedded Software Debugging Guide</a></td>
-    <td>This tutorial demonstrates different debugging features available within the Vitis Embedded software development flow for bare-metal and Linux applications. It also introduces the flow to create a debuggable FSBL and how to do cross triggering in Vitis Unified IDE.</td>
-   </tr>
 </table>
 
 <p class="sphinxhide" align="center"><sub>Copyright © 2020–2023 Advanced Micro Devices, Inc</sub></p>
