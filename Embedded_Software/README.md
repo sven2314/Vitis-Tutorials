@@ -68,7 +68,7 @@ Folowing is the resource for embedded flow with Vitis unified IDE.
   </tr>
 
   <tr>
-    <td><a [UG1400](https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Getting-Started-with-Vitis)></a></td>
+    <td><a href="https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Getting-Started-with-Vitis"> UG1400 </a></td>
     <td>User Manual for embedded development flow with Vitis Unified IDE.</td>
   </tr>
 
