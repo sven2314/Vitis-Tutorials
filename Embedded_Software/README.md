@@ -78,7 +78,7 @@ Following are the resources for embedded flow with Vitis unified IDE.
   </tr>
 
   <tr>
-    <td><a TBD >Migration training class</a></td>
+    <td>Migration training class, LINK is TBD</a></td>
     <td>Introduce how to migrate project and drivers, as well as solving issue when doing migration.</td>
    </tr>
 
