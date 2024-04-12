@@ -57,9 +57,9 @@ The [Feature Tutorials](./Feature_Tutorials) illustrate specific features of Vit
    </tr>
 </table>
 
-## Resources associated with tutorial
+## Resources Associated with Tutorials
 
-Following are the resources for embedded flow with Vitis unified IDE.
+Following are the resources for embedded flow with Vitis Unified IDE.
 
 <table style="width:100%">
   <tr>
@@ -69,11 +69,11 @@ Following are the resources for embedded flow with Vitis unified IDE.
 
   <tr>
     <td><a href=https://www.xilinx.com/video/software/vitis-ide-embedded-design.html> Demo Video for Getting Started</a></td>
-    <td>Getting started with Vitis unified IDE for embedded flow.</td>
+    <td>Getting started with Vitis Unified IDE for embedded flow.</td>
   </tr>
 
   <tr>
-    <td><a href=https://support.xilinx.com/s/article/000035677?language=en_US>Migration Guide</a></td>
+    <td><a href=https://support.xilinx.com/s/article/000035677?language=en_US>Workspace Migration Example</a></td>
     <td>Introduces how to migrate projects from Classic IDE to Vitis Unified IDE</td>
   </tr>
 
